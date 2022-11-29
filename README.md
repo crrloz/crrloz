@@ -1,6 +1,6 @@
 # CARLOS
 
-Sou um estudante de informática. No momento, aprendendo e mexo com:
+Sou um estudante de informática de 15 anos. No momento, aprendendo e mexo com:
 
 *   Desenvolvimento Web
     *   | HTML, XHTML
@@ -18,5 +18,14 @@ Sou um estudante de informática. No momento, aprendendo e mexo com:
 *  Outros
     *   | MySQL
 
+Também possuo conhecimento (bem) básico sobre Python e Redes de Computadores.
 
-É isso, sem oversharing.
+Meus hobbies favoritos são:
+
+*  Estudar matemática
+*  Estudar psicologia (inclui tipologia)
+*  Desenvolver páginas web
+*  Cozinhar
+*  Limpar
+*  Correr
+*  Ouvir música
