@@ -1,6 +1,6 @@
 # CARLOS
 
-Sou um estudante de informática de 15 anos. No momento, aprendendo e mexo com:
+Sou um estudante de informática de 15 anos. No momento, aprendo e mexo com:
 
 *   Desenvolvimento Web
     *   | HTML, XHTML
