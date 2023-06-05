@@ -13,9 +13,6 @@ Sou um estudante de informática. No momento, aprendo e mexo com:
     *   | Java
     *   | JavaScript
     *   | PHP
-
-    
-*  Outros
     *   | MySQL
 
 Também possuo conhecimento (bem) básico sobre Python e Redes de Computadores.
